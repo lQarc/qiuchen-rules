@@ -3,8 +3,9 @@
 # SOURCE: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list
 # CONVERTED: 2026-11-02
 # BEHAVIOR: classical
-# ENTRIES: 695
+# ENTRIES: 694
 # Unsupported USER-AGENT entries omitted: 3
+# Unsupported IPv6 entry omitted by QiuChen remote parser: IP-CIDR6,2620:120:e000::/40
 # Policy is configured in the client.
 
 DOMAIN,voice.telephony.goog
@@ -701,4 +702,3 @@ IP-CIDR,172.110.32.0/21
 IP-CIDR,173.194.0.0/16
 IP-CIDR,216.73.80.0/20
 IP-CIDR,74.125.0.0/16
-IP-CIDR6,2620:120:e000::/40
